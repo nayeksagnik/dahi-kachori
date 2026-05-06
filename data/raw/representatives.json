@@ -1,0 +1,38 @@
+[
+  {
+    "id": "rep_001",
+    "name": "Senator Aria",
+    "faction": "progressives",
+    "influence": 85
+  },
+  {
+    "id": "rep_002",
+    "name": "Councilor Blake",
+    "faction": "moderates",
+    "influence": 70
+  },
+  {
+    "id": "rep_003",
+    "name": "Minister Chen",
+    "faction": "conservatives",
+    "influence": 95
+  },
+  {
+    "id": "rep_004",
+    "name": "Delegate Davis Duplicate",
+    "faction": "progressives",
+    "influence": 60
+  },
+  {
+    "id": "rep_005",
+    "name": "Ambassador Ellis",
+    "faction": "moderates",
+    "influence": 100
+  },
+  {
+    "id": "rep_006",
+    "name": "Director Fox",
+    "faction": "independents",
+    "influence": 92
+  }
+]
